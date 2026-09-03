@@ -4,6 +4,7 @@
 
 # NiggaTron
 
+
 ### Assistente de suporte para gravar, transcrever e registrar atendimentos.
 
 <p>
@@ -39,9 +40,7 @@ Tudo foi pensado para reduzir a tarefa manual de anotar contexto, problema e res
 
 ## Instalação
 
-### Opção recomendada — instalador
-
-1. Baixe o arquivo `NiggaTron-Setup-0.1.0.exe` na página de releases.
+1. Baixe o arquivo `NiggaTron-Setup-0.1.0.exe` [Por aqui nesse site](https://bevly0101.github.io/niggatron/).
 2. Execute o instalador.
 3. Escolha a pasta de instalação e conclua o assistente.
 4. Abra o **NiggaTron** pelo Menu Iniciar ou atalho da área de trabalho.
