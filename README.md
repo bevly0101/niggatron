@@ -46,22 +46,6 @@ Tudo foi pensado para reduzir a tarefa manual de anotar contexto, problema e res
 3. Escolha a pasta de instalação e conclua o assistente.
 4. Abra o **NiggaTron** pelo Menu Iniciar ou atalho da área de trabalho.
 
-### Rodar a partir do código-fonte
-
-Pré-requisito: [Node.js LTS](https://nodejs.org/).
-
-```bash
-npm install
-npm start
-```
-
-Para gerar um novo instalador Windows:
-
-```bash
-npm run dist
-```
-
-O instalador será criado na pasta `dist`.
 
 ## Primeiro uso
 
